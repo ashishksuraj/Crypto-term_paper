@@ -1,0 +1,50 @@
+\documentclass[hyperref={pdfpagelabels=false}]{beamer}
+\usepackage{lmodern}
+\usetheme{Frankfurt}
+\usecolortheme{crane}
+
+\title{SKINNY Cipher}  
+\author{\texttt{Walkie\_Talkie}} 
+\institute{
+	\includegraphics[scale=0.08]{logoiitbh}
+	
+	Department of \texttt{EECS}\\ 
+	Indian Institute of Technology Bhilai}
+
+\begin{document}
+	\begin{frame}
+	\titlepage
+
+\end{frame} 
+
+\AtBeginSection[]
+{
+	\begin{frame}<beamer>
+	\frametitle{Outline}
+	\tableofcontents[currentsection]
+\end{frame}
+}
+
+\input{intro}
+\input{spec}
+\input{observe}
+\input{bpnominate}
+\input{conclu}
+
+
+\begin{frame}{Thanks}
+\begin{block}{Team Members}
+	\begin{itemize}
+		\item Ajay Tarole 11840090
+		\item Ashish Kumar Suraj 11840230
+		\item Vikash Vitthore 11841230
+	\end{itemize}
+\end{block}
+\begin{block}{Implementation Info}
+	\begin{itemize}
+		\item Github Link: https://github.com/ashishksuraj/Crypto-term\_paper
+	\end{itemize}
+\end{block}
+\end{frame}
+
+\end{document}

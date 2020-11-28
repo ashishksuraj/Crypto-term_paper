@@ -1,0 +1,5 @@
+maple_mode(0);
+approx_mode:=0;
+read("config.cxx");
+read("XcasTVP.cxx");
+read("XCasTVP.user");
