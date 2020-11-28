@@ -1,8 +1,10 @@
 # Crypto-term_paper
 Term Paper on SKINNY Block Cipher 
 
-Tutorials for writing term paper
-https://www.youtube.com/watch?v=wR5Z0qzaZ0o
-https://sites.google.com/site/skinnycipher/design
+Walkie_Talkie
 
-https://youtu.be/h1HEKFOZi8A
+Ajay Tarole 11840090
+Ashish Kumar Suraj 11840230
+Vikash Vitthore 11841230
+
+Here is the presentation Video's dropbox link : https://www.dropbox.com/sh/xrv0g1xvr0mbrv6/AAATEsGeqRVNJ20HbkIeqdlGa?dl=0
