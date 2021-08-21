@@ -1,10 +1,7 @@
 # Crypto-term_paper
 Term Paper on SKINNY Block Cipher 
 
-Walkie_Talkie
+It was a team based work where we decided a sweet name for our team Walkie_Talkie. We devided some of our work among ourselves and then accordingly we made a paper on the same.
 
-Ajay Tarole 11840090 |
- Ashish Kumar Suraj 11840230 |
- Vikash Vitthore 11841230
-
-Here is the presentation Video's dropbox link : https://www.dropbox.com/sh/xrv0g1xvr0mbrv6/AAATEsGeqRVNJ20HbkIeqdlGa?dl=0
+Our team members were: 
+Ajay Tarole 11840090 | Ashish Kumar Suraj 11840230 | Vikash Vitthore 11841230
